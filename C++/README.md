@@ -1,4 +1,4 @@
-# Rules for c++
+# Variable name c++
 
 + Class name `MY_CLASS`
 
@@ -42,3 +42,8 @@ void myFunnyFunc(int _number_a, int _number_b);
 ```
 
 + to be continue
+
+---
+
+# Class Specify
+
